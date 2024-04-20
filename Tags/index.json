@@ -1,10 +1,17 @@
 [
   "all",
+  "Paradise-Garage",
+  "The-Hacienda",
+  "Ostgut",
+  "Mayan-Warrior",
+  "The-White-Room",
+  "Plastic-People",
+  "Maniac-Love",
+  "gray",
   "ambient",
   "black",
   "dark",
   "disco",
-  "gray",
   "grep",
   "house",
   "peak",
@@ -12,12 +19,5 @@
   "red",
   "slow",
   "trippy",
-  "tron",
-  "hacienda",
-  "berghain",
-  "mayan_warrior",
-  "white_room",
-  "wip",
-  "circles",
-  "texture2"
+  "wip"  
 ]
